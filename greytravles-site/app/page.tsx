@@ -163,7 +163,7 @@ export default function Home() {
                 Plan Your Escape
               </a>
               <a
-                href="https://wa.me/2349137087519"
+                href="https://wa.me/2349137087518"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center justify-center rounded-full border border-white/15 bg-white/5 px-7 py-3 text-base font-semibold text-white transition hover:border-[#d4af37] hover:bg-[#111111]"
@@ -172,7 +172,8 @@ export default function Home() {
               </a> 
              </div>
           </div>
-      </section>
+              </div>
+                  </section>
       <section id="services" className="mx-auto max-w-7xl px-6 py-20 lg:px-8">
         <div className="mb-12 grid gap-6 lg:grid-cols-[1.1fr_0.9fr] lg:items-end">
           <div>
@@ -339,7 +340,7 @@ export default function Home() {
       </section>
 
       <a
-        href="https://wa.me/2349137087519"
+        href="https://wa.me/2349137087518"
         target="_blank"
         rel="noreferrer"
         className="fixed right-5 bottom-5 z-50 inline-flex items-center gap-3 rounded-full bg-[#25d366] px-5 py-4 text-sm font-semibold text-black shadow-[0_20px_60px_rgba(37,211,102,0.25)] transition hover:bg-[#1ebe5d]"
@@ -362,7 +363,7 @@ export default function Home() {
             <div>
               <p className="text-sm uppercase tracking-[0.3em] text-zinc-500">Contact</p>
               <p className="mt-4 text-white">support@greytravles.com</p>
-              <p className="mt-2">+234 913 708 7519</p>
+              <p className="mt-2">+234 913 708 7518</p>
             </div>
             <div>
               <p className="text-sm uppercase tracking-[0.3em] text-zinc-500">Services</p>
@@ -384,4 +385,3 @@ export default function Home() {
     </main>
   );
 }
-x
